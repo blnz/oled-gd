@@ -1,0 +1,24 @@
+{
+  "name": "oled-gd",
+  "version": "0.1.1",
+  "description": "libgd + oled C++ bindings for Node.js",
+  "main": "js/oled-gd.js",
+  "scripts": {
+    "install": "node-gyp rebuild"
+  },
+  "keywords": [
+    "libgd",
+    "gd",
+    "image",
+    "png",
+    "jpg",
+    "gif",
+    "graphics",
+    "library"
+  ],
+  "license": "MIT",
+  "gypfile": true,
+  "readmeFilename": "README.md",
+  }
+
+}
